@@ -2,7 +2,7 @@
 Summaries of some tips for ISO9613-2 and recommendations for number of reflections when implementing it.
 This project tries to find out which relfection number should we use when we implement the ISO algorithm in noise mapping.
 
-This projected is licensed under the terms of the Apex Acoustics Ltd license.
+This projected is licensed under the terms of the **Apex Acoustics Ltd** license.
 
 ## Main file/function
 The main file is **main_cmp_refl.py**, which include two separate main functions. 
